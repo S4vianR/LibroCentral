@@ -1,0 +1,72 @@
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.csproj.AssemblyReference.cache
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.exe.config
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\AppBibliotecaria.exe.config
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\AppBibliotecaria.exe
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\AppBibliotecaria.pdb
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\MySqlConnector.dll
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Buffers.dll
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Memory.dll
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\MySqlConnector.xml
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Buffers.xml
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Memory.xml
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.MenúLibros.resources
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.Form2.resources
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.Form3.resources
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.MenúBiblioteca.resources
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.FRMlectores.resources
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.FRMMenulectores.resources
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.Properties.Resources.resources
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.csproj.GenerateResource.cache
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.csproj.CoreCompileInputs.cache
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.csproj.CopyComplete
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.exe
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.pdb
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.BuscarLibro.resources
+C:\Users\Brian Rodriguez\Downloads\LibroCentral Actualización\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.FRMLectoreseditar.resources
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\AppBibliotecaria.exe.config
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\AppBibliotecaria.exe
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\AppBibliotecaria.pdb
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\MySqlConnector.dll
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Buffers.dll
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Memory.dll
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\MySqlConnector.xml
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Buffers.xml
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Memory.xml
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.csproj.AssemblyReference.cache
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.exe.config
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.BuscarLibro.resources
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.FRMLectoreseditar.resources
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.MenúLibros.resources
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.Form2.resources
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.Form3.resources
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.MenúBiblioteca.resources
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.FRMlectores.resources
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.FRMMenulectores.resources
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.Properties.Resources.resources
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.csproj.GenerateResource.cache
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.csproj.CoreCompileInputs.cache
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.csproj.CopyComplete
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.exe
+C:\Users\reube\Downloads\LibroCentraV3l\LibroCentral\AppBibliotecaria\obj\Debug\AppBibliotecaria.pdb
