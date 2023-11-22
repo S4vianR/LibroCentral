@@ -1,4 +1,3 @@
-﻿using InventarioMaster;
 using MySqlConnector;
 using System;
 using System.Collections.Generic;
