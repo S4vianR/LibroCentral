@@ -42,6 +42,12 @@
     </Reference>
     <Reference Include="MySqlConnector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
       <HintPath>packages\MySqlConnector.2.3.1\lib\net471\MySqlConnector.dll</HintPath>
+<<<<<<< HEAD
+=======
+    </Reference>
+    <Reference Include="PracticaU2-Componentes">
+      <HintPath>..\..\..\InventarioMaster\DLLs\PracticaU2-Componentes.dll</HintPath>
+>>>>>>> 6c62eb9d83a8c6476416f2732eca420a730d5522
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
@@ -77,7 +83,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConexionSQL.cs" />
+<<<<<<< HEAD
     <Compile Include="BuscarLibro.cs">
+=======
+    <Compile Include="Form1.cs">
+>>>>>>> 6c62eb9d83a8c6476416f2732eca420a730d5522
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="BuscarLibro.Designer.cs">
@@ -156,6 +166,13 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+<<<<<<< HEAD
+=======
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+>>>>>>> 6c62eb9d83a8c6476416f2732eca420a730d5522
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
